@@ -16,3 +16,18 @@ div div {
 #big_div {
 	border: 5px solid black;
 }
+
+#sub_div1 {
+display: flex;
+    justify-content: flex-start;
+}
+
+#sub_div2 {
+    display: flex;
+    justify-content: center;
+}
+
+#sub_div3 {
+    display: flex;
+    justify-content: flex-end;
+}
